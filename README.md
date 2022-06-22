@@ -7,7 +7,7 @@ Web Developer and Designer
 * 🧠  Full-Stack Web Developer and Machine Learner
 * 🤝  I'm open to collaborate on ML Projects.
 * ⚡  Have excellent video editing skills and expertise to work with Adobe Premiere Pro and After Effects
-* ✉️  You can contact me at [akashkumarmishra795@gmail.com](mailto:akashkumarmishra795@gmail.com)
+* ✉️  You can contact me at the social links below and email me at [akashkumarmishra795@gmail.com](mailto:akashkumarmishra795@gmail.com)
 
 <a href="https://www.github.com/SkyXen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SkyXen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
