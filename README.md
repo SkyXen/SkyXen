@@ -1,14 +1,14 @@
 Hi 👋 My name is Akash
 ======================
 
-Developer and Designer
+Web Developer and Designer
 ----------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akashkumarmishra795@gmail.com](mailto:akashkumarmishra795@gmail.com)
-* 🧠  I'm learning Web-Development and Machine Learning
-* 🤝  I'm open to collaborating on ML Projects
-* ⚡  I'm also a pretty good Video Editor
+* 🧠  Full-Stack Web Developer and Machine Learner
+* 🤝  I'm open to collaborate on ML Projects
+* ⚡  Have excellent video editing skills and expertise to work with Adobe Premiere Pro and After Effects
 
 <a href="https://www.github.com/SkyXen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SkyXen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
